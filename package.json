@@ -10,6 +10,7 @@
     "ios/ReactNativeQuickLook.xcodeproj",
     "index.js",
     "README.md",
+    "react-native-quick-look.podspec",
     "ios/ReactNativeQuickLook/RNQuickLookManager.h",
     "ios/ReactNativeQuickLook/RNQuickLookManager.m",
     "ios/ReactNativeQuickLook/RNQuickLookView.h",
